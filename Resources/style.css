@@ -22,3 +22,26 @@ h2 {
   font-weight: bold;
   font-size: 32px;
 }
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#designed {
+  color: white;
+}
+
+.bottom {
+  background-color: dimgrey;
+}
+
+#footer {
+  text-align: left;
+  color: white;
+  font-size: 11px;
+}
